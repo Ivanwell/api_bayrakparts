@@ -186,16 +186,14 @@ const GetProductsByFullInfo = async function (req, res, next) {
       categoryNameSplited[categoryNameSplited.length - 1].toLowerCase()
 
     if (products.length === 0 || !products) {
-      res
-        .status(200)
-        .json({
-          arr: [],
-          amount: 0,
-          title: `${categoryName} для ${brand} ${model}`,
-          metaTitle: `Купити ${categoryName} до ${brand} ${model} ${engine} - BAYRAKPARTS`,
-          metaDescr: `Замовте ${categoryName} до свого ${brand} ${model} та отримайте знижку. Якісні автозапчастини для ${brand}.`,
-          category: category,
-        })
+      res.status(200).json({
+        arr: [],
+        amount: 0,
+        title: `${categoryName} для ${brand} ${model}`,
+        metaTitle: `Купити ${categoryName} до ${brand} ${model} ${engine} - BAYRAKPARTS`,
+        metaDescr: `Замовте ${categoryName} до свого ${brand} ${model} та отримайте знижку. Якісні автозапчастини для ${brand}.`,
+        category: category,
+      })
     } else {
       const articlesArr = products.map(item =>
         item.article.replace(/[- ./]/g, '').toUpperCase()
@@ -297,8 +295,7 @@ async function getProductsByModelAndEngine(category, made, model, engine) {
       url: `https://api.bm.parts/search/products?nodes=${category}&warehouses=all&cars=${made}>${model}>${engine}&products_as=arr&per_page=20`,
 
       headers: {
-        Authorization:
-          '4b17c6ab-d276-43cb-a6bf-bd041bf7bec8.1oR0k6llb6Wpim03FgaovxLlNhE',
+        Authorization: process.env.API_KEY_BM_PARTS,
       },
       'User-Agent':
         'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36',
@@ -394,15 +391,13 @@ const GetCategories = async function (req, res, next) {
       itemListElement: list,
     }
 
-    res
-      .status(200)
-      .json({
-        category: category,
-        broadList: broadList,
-        title: `${category.name}`,
-        metaTitle: `Купити ${category.name.toLowerCase()} до Вашого авто - BAYRAKPARTS`,
-        metaDescr: `Замовте ${category.name.toLowerCase()} до свого авто та отримайте знижку. Якісні автозапчастини для Вашого авто.`,
-      })
+    res.status(200).json({
+      category: category,
+      broadList: broadList,
+      title: `${category.name}`,
+      metaTitle: `Купити ${category.name.toLowerCase()} до Вашого авто - BAYRAKPARTS`,
+      metaDescr: `Замовте ${category.name.toLowerCase()} до свого авто та отримайте знижку. Якісні автозапчастини для Вашого авто.`,
+    })
   } catch (error) {
     console.log(error.message)
     res.status(500).json({ message: error.message })
@@ -416,8 +411,7 @@ const getUuid = async (art, brand) => {
       url: `https://api.bm.parts/search/products?q=${art}&products_as=arr&search_mode=strict`,
 
       headers: {
-        Authorization:
-          '4b17c6ab-d276-43cb-a6bf-bd041bf7bec8.1oR0k6llb6Wpim03FgaovxLlNhE',
+        Authorization: process.env.API_KEY_BM_PARTS,
       },
       'User-Agent':
         'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36',
@@ -460,8 +454,7 @@ const getDetails = async uuid => {
       url: `https://api.bm.parts/product/${uuid}?oe=full`,
 
       headers: {
-        Authorization:
-          '4b17c6ab-d276-43cb-a6bf-bd041bf7bec8.1oR0k6llb6Wpim03FgaovxLlNhE',
+        Authorization: process.env.API_KEY_BM_PARTS,
       },
       'User-Agent':
         'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36',
@@ -482,12 +475,10 @@ const GetDetailsByUuid = async function (req, res, next) {
   try {
     const uuid = await getUuid(req.query.article, req.query.brand)
     const detailsArr = await getDetails(uuid)
-    res
-      .status(200)
-      .json({
-        fits: detailsArr.product?.cars,
-        details: detailsArr.product?.details,
-      })
+    res.status(200).json({
+      fits: detailsArr.product?.cars,
+      details: detailsArr.product?.details,
+    })
   } catch (error) {
     res.status(500).json(error)
   }

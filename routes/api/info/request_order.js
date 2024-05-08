@@ -3,7 +3,7 @@ const axios = require('axios')
 async function saySmth(data) {
   const options = {
     method: 'GET',
-    url: `https://api.telegram.org/bot6173056848:AAE0eviFsiQtx0CWxEJyBizEdl_zhaJ0P1w/sendMessage?chat_id=@edetalRequests&text=${data}`,
+    url: `https://api.telegram.org/bot6173056848:${process.env.API_TOKEN_TELEGRAM}/sendMessage?chat_id=@edetalRequests&text=${data}`,
   }
 
   axios
