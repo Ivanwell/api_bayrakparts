@@ -1,4 +1,5 @@
 const axios = require('axios')
+const { Order } = require('../../../models/models')
 
 async function saySmth(data) {
   const options = {
@@ -40,4 +41,22 @@ const LeaveRequestForSearch = async function (req, res, next) {
   }
 }
 
-module.exports = { LeaveRequest, LeaveRequestForSearch }
+const CreateOrder = async function (req, res, next) {
+  try {
+    const ordersCount = await Order.find({}).countDocuments()
+
+    const newOrder = new Order({
+      _id: ordersCount + 1,
+      products: req.body.products,
+      delivery: req.body.delivery,
+    })
+
+    await newOrder.save()
+
+    res.status(200).json(newOrder._id)
+  } catch (error) {
+    res.status(500).json(error)
+  }
+}
+
+module.exports = { LeaveRequest, LeaveRequestForSearch, CreateOrder }

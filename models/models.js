@@ -81,6 +81,16 @@ const article_page_Schema = Schema({
   categories: [{ type: Schema.Types.ObjectId, ref: 'Category' }],
 })
 
+const order_Schema = Schema({
+  _id: { type: Number, unique: true },
+  delivery: Object,
+  products: Array,
+  date: {
+    type: Date,
+    default: new Date(),
+  },
+})
+
 const Review = mongoose.model('Review', review_Schema)
 const Comment = mongoose.model('Comment', comment_Schema)
 const Item_direct = mongoose.model('Item_direct', item_direct_Schema)
@@ -88,6 +98,7 @@ const Item_whole = mongoose.model('Item_whole', item_whole_Schema)
 const Link = mongoose.model('Link', link_Schema)
 const Category = mongoose.model('Category', categories_Schema)
 const Article_page = mongoose.model('Article_page', article_page_Schema)
+const Order = mongoose.model('Order', order_Schema)
 
 module.exports = {
   Item_whole,
@@ -97,4 +108,5 @@ module.exports = {
   Link,
   Comment,
   Article_page,
+  Order,
 }
