@@ -1,0 +1,811 @@
+[Error: EACCES: permission denied, open '/loggs.txt'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'open',
+  path: '/loggs.txt'
+}
+[Error: EACCES: permission denied, open '/loggs.txt'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'open',
+  path: '/loggs.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+[Error: ENOENT: no such file or directory, open './api/info/test.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './api/info/test.txt'
+}
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:280
+            options: { sort: { +'price': 1} },
+                               ^
+
+SyntaxError: Unexpected token '+'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:123)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:280
+            options: { sort: { +'price': 1} },
+                               ^
+
+SyntaxError: Unexpected token '+'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:123)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:280
+            options: { sort: { +'price': 1} },
+                               ^
+
+SyntaxError: Unexpected token '+'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:123)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:280
+            options: { sort: { +'price': 1} },
+                               ^
+
+SyntaxError: Unexpected token '+'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:123)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:280
+            options: { sort: { +price: 1} },
+                               ^
+
+SyntaxError: Unexpected token '+'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:123)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:280
+            options: { sort: { +price: 1} },
+                               ^
+
+SyntaxError: Unexpected token '+'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:123)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:445
+        res.status(500).json(error : error);
+                             ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:445
+        res.status(500).json(error : error);
+                             ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:442
+        res.status(200).json({'succes', arr1.length})
+                                      ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:442
+        res.status(200).json({'succes', arr1.length})
+                                      ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:442
+        res.status(200).json({'succes', arr1.length})
+                                      ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:442
+        res.status(200).json({'succes', arr1.length})
+                                      ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:433
+       const arr1 = await Item_direct.find({price : {type : Number})
+                                                                   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:433
+       const arr1 = await Item_direct.find({price : {type : Number})
+                                                                   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:433
+       const arr1 = await Item_direct.find({price : { $exists: true })
+                                                                     ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:433
+       const arr1 = await Item_direct.find({price : { $exists: true })
+                                                                     ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:433
+       const arr1 = await Item_direct.find({price : { $exists: true })
+                                                                     ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:433
+       const arr1 = await Item_direct.find({price : { $exists: true })
+                                                                     ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:440
+})
+^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:440
+})
+^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:440
+})
+^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:440
+})
+^
+
+SyntaxError: Missing catch or finally after try
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434
+    const arr1 = await Item_direct.find({price : { $ne:  type String }})
+                                                              ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434
+    const arr1 = await Item_direct.find({price : { $ne:  type String }})
+                                                              ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434
+    const arr1 = await Item_direct.find({price : { $ne:  $type String }})
+                                                               ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434
+    const arr1 = await Item_direct.find({price : { $ne:  $type String }})
+                                                               ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+(node:1652114) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1652114) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:1652114) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:1976060) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 18)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 19)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 20)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 21)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 22)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 23)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 24)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 25)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 26)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 27)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 28)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 29)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 30)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 31)
+(node:1976060) UnhandledPromiseRejectionWarning: CastError: Cast to Number failed for value "NaN" (type number) at path "price"
+    at SchemaNumber.cast (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schematype.js:1219:12)
+    at SchemaNumber.castForQuery (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/schema/number.js:432:14)
+    at castUpdateVal (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:576:19)
+    at walkUpdatePath (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:381:24)
+    at castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4709:10)
+    at model.Query._updateThunk (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3876:25)
+    at model.Query._updateOne (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:3964:23)
+    at model.Query.exec (/home/edetpluf/nodevenv/api.bayrakparts.com/14/lib/node_modules/mongoose/lib/query.js:4429:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:434:13
+(node:1976060) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 32)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:185
+                               category : category
+                               ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:185
+                               category : category
+                               ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:185
+                               category : category
+                               ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/edetpluf/api.bayrakparts.com/routes/api/info/get_product.js:185
+                               category : category
+                               ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/edetpluf/api.bayrakparts.com/routes/api/info/index.js:2:129)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
